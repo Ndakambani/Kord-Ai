@@ -3,8 +3,8 @@
 global.settings = {
   OWNER_NUMBERS: "27774125845", // your number with country code
   OWNER_NAME: '🔏Angel Di Maria 🔥🔥', // your owner name 
-  BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: 'kord_ai-vyimY6GTtifB', // replace your_sessionid with yours and make sure its inside the 
+  BOT_NAME: 'Jimmy', // your preferred bot name
+  SESSION_ID: 'kord_ai-5oIU2dNZ7A31', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
